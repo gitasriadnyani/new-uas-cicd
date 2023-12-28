@@ -1,0 +1,11 @@
+{
+  "name": "new-mjs-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "strat": "new-mjs-cicd index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
